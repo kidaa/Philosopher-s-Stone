@@ -1,6 +1,6 @@
 # Philosopher's Stone
 
-Repository for Philosopher's Stone, a rewrite of EE3 Minium Stone/Philosopher Stone (after 1.6.4).
+Repository for Philosopher's Stone, a rewrite of EE3 Minium Stone/Philosopher Stone (before 1.6.4).
 
 This mod may only be redistributed as part of a modpack, both public and private modpacks are allowed.
 
